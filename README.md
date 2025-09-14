@@ -13,8 +13,6 @@ Custom Arduino UNO-compatible PCB design and robot prototype for obstacle detect
 - Autodesk Fusion 360
 - Arduino (C/C++)
 
-## Demo
-(Add an image of your PCB schematic or robot build here!)
 
 ---
 
